@@ -13,7 +13,7 @@ import java.security.spec.X509EncodedKeySpec;
 /**
  * Created by user on 16/10/25.
  */
-public class RsaSinatureUtil {
+public class RsaSignatureUtil {
 
     public static String test = "test";
 
